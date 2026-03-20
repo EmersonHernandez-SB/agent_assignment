@@ -1,0 +1,1 @@
+# EmerClinic Agent — core package
